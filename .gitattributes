@@ -1,0 +1,31 @@
+* text=auto whitespace=-trailing-space
+
+*.cs text eol=lf
+*.cginc text eol=lf
+*.hlsl text eol=lf
+*.shader text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.asmdef text eol=lf
+*.anim text eol=lf whitespace=-trailing-space
+*.asset whitespace=-trailing-space
+*.controller text eol=lf whitespace=-trailing-space
+*.mat text eol=lf whitespace=-trailing-space
+*.meta text eol=lf whitespace=-trailing-space
+*.prefab text eol=lf whitespace=-trailing-space
+*.shadervariants text eol=lf whitespace=-trailing-space
+*.txt text eol=lf whitespace=-trailing-space
+*.unity text eol=lf whitespace=-trailing-space
+
+*.bmp binary
+*.fbx binary
+*.gif binary
+*.jpeg binary
+*.jpg binary
+*.mp3 binary
+*.ogg binary
+*.png binary
+*.psd binary
+*.tga binary
+*.ttf binary
+*.wav binary
